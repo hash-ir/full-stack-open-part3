@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "express": "^4.21.1",
+    "mongoose": "^8.8.2",
     "morgan": "^1.10.0"
   }
 }
